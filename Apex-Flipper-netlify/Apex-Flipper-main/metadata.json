@@ -1,0 +1,6 @@
+{
+  "name": "ApexFlipper - Market Cap Stock Chart Flipper",
+  "description": "Rapid-fire stock chart flipper ranked by US market capitalization with customizable timers, sector & industry filtering, options-only filtering, Night Bedtime mode, and Google Sheets watchlist sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
